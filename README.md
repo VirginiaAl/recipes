@@ -1,6 +1,5 @@
 # recipes
-Front: react, redux, axios, react-router
+Front: react, redux, axios, material UI
+Back: node, mongoDB, express
 
-Back: mongoDB, express, passport
-
-ES6, etc...
+ES6
